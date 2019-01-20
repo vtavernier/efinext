@@ -1,0 +1,9 @@
+-I/usr/include/efi
+-I/usr/include/efi/x86_64
+-I/usr/include/efi/protocol
+-fno-stack-protector
+-fpic
+-fshort-wchar
+-mno-red-zone
+-Wall
+-DEFI_FUNCTION_WRAPPER
